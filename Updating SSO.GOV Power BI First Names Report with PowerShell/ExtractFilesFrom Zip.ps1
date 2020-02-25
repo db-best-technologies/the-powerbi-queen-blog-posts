@@ -9,3 +9,4 @@ Expand-Archive -LiteralPath "C:\Temp\NamesByState.zip" `
 # TODO: Once the TXT files are extracted, 
 #       - Append all the TXT files into a single CSV file for PBI.
 #       - Use nice column names for the columns. 
+# Bill's change
